@@ -1,0 +1,4 @@
+﻿  CppCLR_WinformsProjekt.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+CppCLR_WinformsProjekt.obj : error LNK2020: unresolved token (06000002) DataBase::.ctor
+E:\source\repos\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.exe : fatal error LNK1120: 1 unresolved externals
